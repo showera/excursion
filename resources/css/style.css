@@ -24,3 +24,8 @@ p {
   font-size: 21px;
   color: gray;
 }
+
+#copyRight {
+  text-align: right;
+  color: gray;
+}
